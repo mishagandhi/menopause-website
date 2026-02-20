@@ -1,3 +1,12 @@
+
+
+cd your-repository-name
+# Copy your website files into the current directory
+git add .
+git commit -m "Add website files"
+git push origin main
+
+
 # menopause-website
 research
 <!DOCTYPE html>
